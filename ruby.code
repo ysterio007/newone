@@ -1,0 +1,2 @@
+thor utils:query 'select id, name from account limie 10' -c '
+databasedotcom.yml'
